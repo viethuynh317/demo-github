@@ -1,11 +1,8 @@
-# List gạch đầu dòng
+# Horizonal rules
 
-* item 1
-* item 2
-* item 3
+***
+horizonal rules
 
-# List dạng số
+# Blockquotes
 
-1. item 1
-2. item 2
-3. item 3
+> text
