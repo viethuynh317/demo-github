@@ -1,7 +1,11 @@
-# Chèn Link
+# List gạch đầu dòng
 
-[Google](https://www.google.com/)
+* item 1
+* item 2
+* item 3
 
-# Chèn Hình ảnh
+# List dạng số
 
-![Image](https://picsum.photos/200)
+1. item 1
+2. item 2
+3. item 3
