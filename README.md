@@ -1,5 +1,7 @@
-```javascript
-  const x = 5;
-  const y = 1;
-  console.log('x + y', x + y);
-```
+# Chèn Link
+
+[Google](https://www.google.com/)
+
+# Chèn Hình ảnh
+
+![Image](https://picsum.photos/200)
